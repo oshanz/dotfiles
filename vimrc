@@ -6,3 +6,5 @@ filetype indent on
 set autoindent
 
 nmap <F8> :TlistToggle<CR>
+
+colorscheme github
