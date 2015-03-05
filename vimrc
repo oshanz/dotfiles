@@ -9,3 +9,4 @@ nmap <F8> :TlistToggle<CR>
 nmap <F7> :NERDTreeTabsToggle<CR>
 
 colorscheme github
+
